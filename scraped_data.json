@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Artículo de Opinión 1",
+        "content": "Contenido del artículo...",
+        "image_url": "https://url.to/article1-image.jpg",
+        "translated_title": "Opinion Article 1"
+    },
+    {
+        "title": "Artículo de Opinión 2",
+        "content": "Contenido del artículo...",
+        "image_url": "https://url.to/article2-image.jpg",
+        "translated_title": "Opinion Article 2"
+    }
+]
